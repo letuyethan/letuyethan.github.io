@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, I'm Tuyet-Han Le, a master student in International Economy at Orléans University, France.
+🥇 I am currently pursuing a Master in International Economics and Sustainable Development at the University of Orléans, France –   where I achieved the 1st rank among 15 students in my first semester of Master 1. 
+
+📝 My studies focus on development and environmental economics, with an emphasis on applying econometrics and data analysis to evaluate policy outcomes.
+
+✈️ Looking ahead, I aim to apply my analytical skills in contributing to practical solutions that promote sustainability and enhance business practices, particularly in supply chain management.Hi there, I'm Tuyet-Han Le, a master student in International Economy at Orléans University, France.
