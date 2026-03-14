@@ -30,4 +30,4 @@ latest_posts:
 
 📝 My studies focus on development and environmental economics, with an emphasis on applying econometrics and data analysis to evaluate policy outcomes.
 
-✈️ Looking ahead, I aim to apply my analytical skills in contributing to practical solutions that promote sustainability and enhance business practices, particularly in supply chain management.Hi there, I'm Tuyet-Han Le, a master student in International Economy at Orléans University, France.
+✈️ Looking ahead, I aim to apply my analytical skills in contributing to practical solutions that promote sustainability and enhance business practices, particularly in supply chain management.
