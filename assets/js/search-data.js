@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-analysis-of-school-spending-and-4th-grade-math-achievement",
+          title: 'Analysis of School Spending and 4th Grade Math Achievement',
+          description: "A panel econometrics study of U.S. school districts (1992-1998)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/panel-data-math-achievement/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
