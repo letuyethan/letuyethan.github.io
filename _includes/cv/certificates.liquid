@@ -1,9 +1,17 @@
 {% comment %}
-  Unified certificates entry renderer for both formats
+  Unified certificates entry renderer for both formats.
+  Supports an optional "group" field to render subheadings.
 {% endcomment %}
 
 <ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign current_group = "" %}
   {% for entry in entries %}
+    {% if entry.group and entry.group != current_group %}
+      {% assign current_group = entry.group %}
+      <li class="list-group-item pt-3 pb-1">
+        <h5 class="font-weight-bold" style="font-size: 1.1rem; color: black;">{{ current_group }}</h5>
+      </li>
+    {% endif %}
     <li class="list-group-item">
       {% if entry.icon %}
         <i class="{{ entry.icon }}"></i>

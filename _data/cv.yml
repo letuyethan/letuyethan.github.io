@@ -1,189 +1,271 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Tuyet-Han LE
+  label: "Master Student in International Economics & Sustainable Development"
+  email: tuyet-han.le@etu.univ-orleans.fr
+  phone: "(+33) 6 56 68 56 26"
+  location: "Orléans, France"
+  url: https://letuyethan.github.io
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: "Master student in International Economics and Sustainable Development at the University of Orléans, ranked 1st out of 15 students. Interested in applying econometrics and data analysis to evaluate policy outcomes and promote sustainability."
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: letuyethan
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: "University of Orléans"
+        location: "Orléans, France"
+        area: International Economics and Sustainable Development
+        studyType: Master
+        start_date: 2025
+        end_date: Present
+        score: "Average: 15.39/20 (ranked 1st/15)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Core courses: Panel Econometrics (18/20), Development Economics (17/20), Environmental Economics (16.185/20)"
+          - "Other courses: Data Analysis (15.87/20), Programming Using Python (15.75/20)"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: "University Rennes 2"
+        location: "Rennes, France"
+        area: French Studies
+        studyType: University Diploma
+        start_date: 2024
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - "University Diploma in French Studies B1 (17.219/20)"
+          - "University Diploma in French Studies B2 (17.124/20)"
+
+      - institution: "Foreign Trade University"
+        location: "Ho Chi Minh City, VN"
+        area: International Business Economics
+        studyType: Bachelor
+        start_date: 2018
+        end_date: 2022
+        score: "GPA: 3.3/4.0"
+        highlights:
+          - "Core courses: Logistics and International Transportation, Econometrics, International Trade Policy"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Hyosung Corporation
+        position: Purchasing Executive
+        location: "Ho Chi Minh City, VN"
+        start_date: 2022
+        end_date: 2022
         highlights:
-          - Relativity
-          - Description 2.
+          - "Managed the procurement process for over 300 types of machine components and spare parts, ensuring a consistent supply to support 24/7 production operations."
+          - "Processed 200+ domestic and international purchase orders monthly, achieving a 95% on-time delivery rate by resolving issues related to delays, quality, and quantity discrepancies."
+          - "Negotiated with 20+ suppliers to reduce costs by 5% annually, improve delivery schedules, and successfully expanded the supplier network by integrating 5 local and 2 international new suppliers."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Projects:
+      - name: "Analysis of the Impact of Expenditure and Socioeconomic Factors on 4th Grade Math Achievement: A Panel Data Study"
+        url: /assets/pdf/projects/panel_data_math_achievement.pdf
+        summary: "Panel econometrics study comparing Pooled OLS, Random Effects, and Fixed Effects models on U.S. school district data (1992–1998)."
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Grade: 18/20"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - name: "Forecasting Personal Consumption Expenditures on Energy Goods and Services in the US (2010–2025) Using ARIMA Models: A Time Series Study"
+        url: /assets/pdf/projects/Forecasting_Personal_Consumption_Expenditures_on_Energy_Goods_and_Services_in_the_US__2010_2025__Using_ARIMA_Models.pdf
+        summary: "Time series analysis and forecasting using ARIMA methodology."
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Grade: 16.5/20"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - name: "Morocco: A Country Risk Report"
+        url: "/assets/pdf/projects/Country Report 2025 – MOROCCO – TUYET-HAN LE.pdf"
+        summary: "Comprehensive country risk assessment covering economic, political, and financial dimensions."
+        highlights:
+          - "Grade: 15/20"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - name: "Contractual Liability for Non-Conformity of Goods under CISG and Its Implications for Vietnam"
+        summary: "Undergraduate thesis examining contractual liability under the United Nations Convention on Contracts for the International Sale of Goods."
+        highlights:
+          - "Grade: 8.4/10"
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "SQL, Python, Stata, R"
+
+      - name: Data Visualization
+        icon: fa-solid fa-chart-bar
+        keywords: "Power BI, Matplotlib, Seaborn"
+
+      - name: Tools & Documentation
+        icon: fa-solid fa-toolbox
+        keywords: "Microsoft Office (Word, Excel, PowerPoint, Outlook), LaTeX"
 
     Languages:
-      - name: German
+      - name: Vietnamese
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "[TOEIC 950/990](https://www.etsglobal.org/fr/en/digital-score-report/AA721662CC61139EBBEC7DCD67F025684D55312129F18EBB3C81EDBA97680249QmlUZHhMNzg5ZHVhRUF2Ym5kYUNOTlg1RDNJQXRFRmhOb1VFMnp1SGNHdU5kTUx2)"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "[DELF B2](/assets/pdf/DELF_B2.pdf)"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      # --- Python Data Fundamentals (DataCamp) ---
+      - name: "Introduction to Python"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to Python.pdf
+        icon: fa-brands fa-python
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: "Intermediate Python"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Intermediate Python.pdf
+        icon: fa-brands fa-python
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: "Data Manipulation with pandas"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Data Manipulation with pandas.pdf
+        icon: fa-brands fa-python
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: "Joining Data with pandas"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Joining Data with pandas.pdf
+        icon: fa-brands fa-python
+
+      - name: "Introduction to Data Visualization with Seaborn"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to Data Visualization with Seaborn.pdf
+        icon: fa-brands fa-python
+
+      - name: "Introduction to Statistics in Python"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to Statistics in Python.pdf
+        icon: fa-brands fa-python
+
+      - name: "Exploratory Data Analysis in Python"
+        group: Python Data Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Exploratory Data Analysis in Python.pdf
+        icon: fa-brands fa-python
+
+      # --- SQL Fundamentals (DataCamp) ---
+      - name: "Introduction to SQL"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to SQL.pdf
+        icon: fa-solid fa-database
+
+      - name: "Intermediate SQL"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Intermediate SQL.pdf
+        icon: fa-solid fa-database
+
+      - name: "Joining Data in SQL"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Joining Data in SQL.pdf
+        icon: fa-solid fa-database
+
+      - name: "Data Manipulation in SQL"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Data Manipulation in SQL.pdf
+        icon: fa-solid fa-database
+
+      - name: "PostgreSQL Summary Stats and Window Functions"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/PostgreSQL Summary Stats and Window Functions.pdf
+        icon: fa-solid fa-database
+
+      - name: "Functions for Manipulating Data in PostgreSQL"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Functions for Manipulating Data in PostgreSQL.pdf
+        icon: fa-solid fa-database
+
+      - name: "Database Design"
+        group: SQL Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Database Design.pdf
+        icon: fa-solid fa-database
+
+      # --- Power BI Fundamentals (DataCamp) ---
+      - name: "Introduction to Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to Power BI.pdf
+        icon: fa-solid fa-chart-pie
+
+      - name: "Introduction to DAX in Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Introduction to DAX in Power BI.pdf
+        icon: fa-solid fa-chart-pie
+
+      - name: "Data Visualization in Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Data Visualization in Power BI.pdf
+        icon: fa-solid fa-chart-pie
+
+      - name: "Case Study: Analyzing Customer Churn in Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: "/assets/pdf/certifications/Case Study_ Analyzing Customer Churn in Power BI.pdf"
+        icon: fa-solid fa-chart-pie
+
+      - name: "Data Preparation in Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Data Preparation in Power BI.pdf
+        icon: fa-solid fa-chart-pie
+
+      - name: "Data Modeling in Power BI"
+        group: Power BI Fundamentals (DataCamp)
+        date: 2026-01-01
+        issuer: DataCamp
+        url: /assets/pdf/certifications/Data Modeling in Power BI.pdf
+        icon: fa-solid fa-chart-pie
+
+    Extracurricular Activities:
+      - company: Logistics Studying Club
+        position: Member & Volunteer Leader
+        location: "Foreign Trade Uni., VN"
+        start_date: 2018
+        end_date: 2022
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Studied logistics and organized academic workshops."
+          - "Led the Spring Volunteer Campaign (2019)."
+
+      - company: FTU Sport Games
+        position: Volleyball Team Member
+        location: "Foreign Trade Uni., VN"
+        start_date: 2018
+        end_date: 2022
+        highlights:
+          - "Won Gold, Silver, and Bronze Medals in Volleyball."
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Anthony PARIS — Assistant Professor, University of Orléans"
+        icon: fa-solid fa-user
+        reference: "Email: anthony.paris@univ-orleans.fr | Recommendation letters: [English (PDF)](/assets/pdf/references/RecommendationLetter_En.pdf) · [French (PDF)](/assets/pdf/references/RecommendationLetter_Fr.pdf)"

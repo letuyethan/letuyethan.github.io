@@ -16,7 +16,7 @@ I worked with a balanced panel of **550 U.S. school districts** observed over **
 
 This was a course project for **Panel Econometrics** in my Master's program (International Economics and Sustainable Development, University of Orleans), taught by Professor Marcel Voia. I received a grade of **18/20** for this project[^1].
 
-[^1]: [Full report (PDF)](/assets/pdf/panel_data_math_achievement.pdf)
+[^1]: [Full report (PDF)](/assets/pdf/projects/panel_data_math_achievement.pdf)
 
 ---
 
