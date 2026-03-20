@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-forecasting-us-energy-consumption-using-arima-models",
+          title: 'Forecasting US Energy Consumption Using ARIMA Models',
+          description: "A time series study of Personal Consumption Expenditures on Energy (2010-2025)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/arima-energy-forecasting/";
             },},{id: "projects-analysis-of-school-spending-and-4th-grade-math-achievement",
           title: 'Analysis of School Spending and 4th Grade Math Achievement',
           description: "A panel econometrics study of U.S. school districts (1992-1998)",
