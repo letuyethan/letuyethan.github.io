@@ -8,7 +8,11 @@
       {% if entry.icon %}
         <i class="{{ entry.icon }}"></i>
       {% endif %}
-      <strong>{{ entry.name }}</strong>
+      {% if entry.url %}
+        <strong><a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a></strong>
+      {% else %}
+        <strong>{{ entry.name }}</strong>
+      {% endif %}
       <p>{{ entry.reference | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     </li>
   {% endfor %}
