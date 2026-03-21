@@ -101,7 +101,7 @@ cv:
         summary: "[TOEIC 950/990](https://www.etsglobal.org/fr/en/digital-score-report/AA721662CC61139EBBEC7DCD67F025684D55312129F18EBB3C81EDBA97680249QmlUZHhMNzg5ZHVhRUF2Ym5kYUNOTlg1RDNJQXRFRmhOb1VFMnp1SGNHdU5kTUx2)"
 
       - name: French
-        summary: "[DELF B2](/assets/pdf/DELF_B2.pdf)"
+        summary: "[DELF B2](/assets/pdf/certifications/DELF B2.pdf)"
 
     Certificates:
       # --- Python Data Fundamentals (DataCamp) ---
