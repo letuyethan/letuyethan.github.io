@@ -90,16 +90,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-fr-moved-to-france-to-begin-my-french-language-studies-at-university-rennes-2-in-brittany",
+          title: ':fr: Moved to France to begin my French language studies at University Rennes...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-books-completed-my-university-diplomas-in-french-studies-b1-and-b2-at-university-rennes-2-with-scores-of-17-219-20-and-17-124-20",
+          title: ':books: Completed my University Diplomas in French Studies (B1 and B2) at University...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-mortar-board-moved-to-orléans-to-start-my-master-1-in-international-economics-and-sustainable-development-at-the-university-of-orléans",
+          title: ':mortar_board: Moved to Orléans to start my Master 1 in International Economics and...',
+          description: "",
+          section: "News",},{id: "news-1st-place-medal-finished-the-first-semester-of-master-1-ranked-1st-out-of-15-students-with-an-average-of-15-39-20",
+          title: ':1st_place_medal: Finished the first semester of Master 1 ranked 1st out of 15...',
           description: "",
           section: "News",},{id: "projects-forecasting-us-energy-consumption-using-arima-models",
           title: 'Forecasting US Energy Consumption Using ARIMA Models',
