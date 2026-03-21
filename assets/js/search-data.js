@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-data-analysis-self-learning-journey-of-an-economics-student-part-iii-power-bi",
+        },{id: "post-how-i-added-an-interactive-particle-background-to-my-portfolio",
+        
+          title: "How I Added an Interactive Particle Background to My Portfolio",
+        
+        description: "A step-by-step guide to replacing al-folio&#39;s plain white background with an animated, mouse-interactive particle effect using particles.js.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/particle-background-alfolio/";
+          
+        },
+      },{id: "post-the-data-analysis-self-learning-journey-of-an-economics-student-part-iii-power-bi",
         
           title: "The Data Analysis Self-Learning Journey of an Economics Student: Part III -- Power...",
         
