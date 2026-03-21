@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 🥇 I am currently pursuing a Master in International Economics and Sustainable Development at the University of Orléans, France –   where I achieved the 1st rank among 15 students in my first semester of Master 1. 
