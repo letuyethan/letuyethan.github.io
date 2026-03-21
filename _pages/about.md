@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Orléans University</a>.
+subtitle: <a href='https://formation-en.univ-orleans.fr/en/training-offer/master-lmd-XB/master-economie-internationale-international-economics-JDUF3MIF.html'>Master 1 Student in International Economics @Orléans University</a>.
 
 profile:
   align: right

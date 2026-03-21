@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv/CV_en.pdf # path to your CV PDF file
+cv_pdf: /assets/rendercv/rendercv_output/Tuyet_Han_LE_CV.pdf # path to your CV PDF file
 email: hantuyetle2@gmail.com # your email address
 # linkedin: hantuyetle
 # inspirehep_id: 1010907 # Inspire HEP author ID
