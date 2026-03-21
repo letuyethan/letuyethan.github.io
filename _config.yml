@@ -232,6 +232,7 @@ exclude:
   - _posts/2024-12-04-photo-gallery.md
   - _posts/2025-03-26-plotly.md
   - _projects/?_project.md
+  - _news/announcement_*.md
 keep_files:
   - CNAME
   - .nojekyll
