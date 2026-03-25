@@ -59,24 +59,28 @@ cv:
     Projects:
       - name: "Analysis of the Impact of Expenditure and Socioeconomic Factors on 4th Grade Math Achievement: A Panel Data Study"
         url: /assets/pdf/projects/panel_data_math_achievement.pdf
-        summary: "Panel econometrics study comparing Pooled OLS, Random Effects, and Fixed Effects models on U.S. school district data (1992–1998)."
+        summary: "Compared Pooled OLS, Random Effects, and Fixed Effects on a panel of 550 U.S. school districts (1992–1998). Hausman test selected FE as preferred specification. (Stata)"
         highlights:
           - "Grade: 18/20"
 
-      - name: "Forecasting Personal Consumption Expenditures on Energy Goods and Services in the US (2010–2025) Using ARIMA Models: A Time Series Study"
+      - name: "Forecasting Personal Consumption Expenditures on Energy Goods and Services in the US (2010–2025) Using ARIMA Models"
         url: /assets/pdf/projects/Forecasting_Personal_Consumption_Expenditures_on_Energy_Goods_and_Services_in_the_US__2010_2025__Using_ARIMA_Models.pdf
-        summary: "Time series analysis and forecasting using ARIMA methodology."
+        summary: "Modeled 189 monthly observations from FRED. Selected ARIMA(1,1,1) via AIC/BIC; validated with Portmanteau test and stability condition. (Stata)"
         highlights:
           - "Grade: 16.5/20"
 
       - name: "Morocco: A Country Risk Report"
         url: "/assets/pdf/projects/Country Report 2025 – MOROCCO – TUYET-HAN LE.pdf"
-        summary: "Comprehensive country risk assessment covering economic, political, and financial dimensions."
+        summary: "Assessed economic, political, and financial risk using macroeconomic indicators and governance analysis."
         highlights:
           - "Grade: 15/20"
 
+      - name: "Spotify Dashboard: Visualizing My Listening Habits"
+        url: https://github.com/letuyethan/spotify_dashboard
+        summary: "Python data pipeline (spotipy, pandas) to extract Spotify listening history via OAuth 2.0. Interactive [Tableau dashboard](https://public.tableau.com/views/MySpotifyDashboard_17744647533350/Dashboard1) with cross-filtering by artist, track, hour, and day."
+
       - name: "Contractual Liability for Non-Conformity of Goods under CISG and Its Implications for Vietnam"
-        summary: "Undergraduate thesis examining contractual liability under the United Nations Convention on Contracts for the International Sale of Goods."
+        summary: "Undergraduate thesis on seller liability under CISG Articles 35–44, compared with Vietnamese commercial law."
         highlights:
           - "Grade: 8.4/10"
 
