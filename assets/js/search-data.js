@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-i-added-an-interactive-particle-background-to-my-portfolio",
+        },{id: "post-building-a-spotify-dashboard-from-api-to-tableau",
+        
+          title: "Building a Spotify Dashboard: From API to Tableau",
+        
+        description: "How I built a Python data pipeline to fetch my Spotify listening history and visualized it in an interactive Tableau dashboard.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spotify-dashboard/";
+          
+        },
+      },{id: "post-how-i-added-an-interactive-particle-background-to-my-portfolio",
         
           title: "How I Added an Interactive Particle Background to My Portfolio",
         
@@ -123,6 +134,11 @@ ninja.data = [{
           description: "A panel econometrics study of U.S. school districts (1992-1998)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/panel-data-math-achievement/";
+            },},{id: "projects-spotify-dashboard-visualizing-my-listening-habits",
+          title: 'Spotify Dashboard: Visualizing My Listening Habits',
+          description: "A Python data pipeline + Tableau dashboard to explore my Spotify listening history.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spotify-dashboard/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
