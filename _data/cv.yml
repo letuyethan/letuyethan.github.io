@@ -77,7 +77,7 @@ cv:
 
       - name: "Spotify Dashboard: Visualizing My Listening Habits"
         url: https://github.com/letuyethan/spotify_dashboard
-        summary: "Python data pipeline (spotipy, pandas) to extract Spotify listening history via OAuth 2.0. Interactive [Tableau dashboard](https://public.tableau.com/views/MySpotifyDashboard_17744647533350/Dashboard1) with cross-filtering by artist, track, hour, and day."
+        summary: "Python data pipeline (spotipy, pandas) to extract Spotify listening history. Interactive [Tableau dashboard](https://public.tableau.com/views/MySpotifyDashboard_17744647533350/Dashboard1) with cross-filtering by artist, track, hour, and day."
 
       - name: "Contractual Liability for Non-Conformity of Goods under CISG and Its Implications for Vietnam"
         summary: "Undergraduate thesis on seller liability under CISG Articles 35–44, compared with Vietnamese commercial law."
